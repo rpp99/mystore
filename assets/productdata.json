@@ -1,0 +1,23 @@
+[
+      {
+        "pId": 101,
+        "pName": "Samsung Mobile S9",
+        "pPrice": 19500,
+        "pImage": "assets/img/products/sam1.jpg",
+        "pDate": "2023/02/21"
+      },
+      {
+        "pId": 102,
+        "pName": "Samsung Mobile S9",
+        "pPrice": 19500,
+        "pImage": "assets/img/products/sam1.jpg",
+        "pDate": "2023/02/21"
+      },
+      {
+        "pId": 103,
+        "pName": "Samsung Mobile S9",
+        "pPrice": 19500,
+        "pImage": "assets/img/products/sam1.jpg",
+        "pDate": "2023/02/21"
+      }
+    ]
